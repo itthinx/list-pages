@@ -9,3 +9,9 @@ Stable tag: 1.0.0
 License: GPLv3
 
 Implements the [list-pages] shortcode that allows to list pages.
+
+== Description ==
+
+Implements the [list-pages] shortcode that allows to list pages.
+
+Accepts the same arguments as for the <a href="https://developer.wordpress.org/reference/functions/get_pages/"><code>get_pages()</code></a> function which it uses to obtain pages.
