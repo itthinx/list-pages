@@ -14,4 +14,4 @@ Implements the [list-pages] shortcode that allows to list pages.
 
 Implements the [list-pages] shortcode that allows to list pages.
 
-Accepts the same arguments as the [get_pages()](https://developer.wordpress.org/reference/functions/get_pages/) function which it uses to obtain pages.
+Accepts the same arguments as the get_pages() function  which it uses to obtain pages: https://developer.wordpress.org/reference/functions/get_pages/
